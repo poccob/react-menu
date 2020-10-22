@@ -721,6 +721,356 @@
       "weight": 600,
       "category": 3,
       "rating": 939
+    },
+    {
+      "id": 1062,
+      "imageUrl": "/img/menu/uslugi-detsk.jpg",
+      "name": "Детская комната за час",
+      "price": 250,
+      "discr": "Со скидкой по будням до 18 часов - 100 руб/час",
+      "weight": 0,
+      "category": 4,
+      "rating": 938
+    },
+    {
+      "id": 1063,
+      "imageUrl": "/img/menu/uslugi-detsk.jpg",
+      "name": "Детская комната безлимит",
+      "price": 550,
+      "discr": "Более двух часов не тарифициуется",
+      "weight": 0,
+      "category": 4,
+      "rating": 937
+    },
+    {
+      "id": 1064,
+      "imageUrl": "/img/menu/detskoemenu-vokrug.jpg",
+      "name": "Вокруг света",
+      "price": 210,
+      "discr": "Кусочки куриного филе с добавлением сыра, замаринованные в соевом соусе, обжаренные в панировке.",
+      "weight": 140,
+      "category": 4,
+      "rating": 936
+    },
+    {
+      "id": 1065,
+      "imageUrl": "/img/menu/detskoemenu-rodjer.jpg",
+      "name": "Весёлый Роджер",
+      "price": 190,
+      "discr": "Нежные куриные оладушки",
+      "weight": 100,
+      "category": 4,
+      "rating": 935
+    },
+    {
+      "id": 1066,
+      "imageUrl": "/img/menu/detskoemenu-naggetsi.jpg",
+      "name": "Куриный поп-корн",
+      "price": 240,
+      "discr": "Куриное филе в панировке, обжаренное во фритюре",
+      "weight": 180,
+      "category": 4,
+      "rating": 934
+    },
+    {
+      "id": 1067,
+      "imageUrl": "/img/menu/detskoemenu-osminog.jpg",
+      "name": "Осьминожки",
+      "price": 150,
+      "discr": "Молочные сосиски",
+      "weight": 120,
+      "category": 4,
+      "rating": 933
+    },
+    {
+      "id": 1068,
+      "imageUrl": "/img/menu/detskoemenu-osminog.jpg",
+      "name": "Корсар",
+      "price": 140,
+      "discr": "Пикантная курочка.",
+      "weight": 100,
+      "category": 4,
+      "rating": 932
+    },
+    {
+      "id": 1069,
+      "imageUrl": "/img/menu/detskoemenu-ustav.jpg",
+      "name": "Морской устав",
+      "price": 225,
+      "discr": "Пикантная курочка.",
+      "weight": 140,
+      "category": 4,
+      "rating": 931
+    },
+    {
+      "id": 1070,
+      "imageUrl": "/img/menu/detskoemenu-krab.jpg",
+      "name": "Клешни краба",
+      "price": 200,
+      "discr": "Крабовые клешни в панировке.",
+      "weight": 200,
+      "category": 4,
+      "rating": 930
+    },
+    {
+      "id": 1071,
+      "imageUrl": "/img/menu/detskoemenu-krab.jpg",
+      "name": "Пиастры",
+      "price": 200,
+      "discr": "Картофельные драники со сметаной.",
+      "weight": 240,
+      "category": 4,
+      "rating": 929
+    },
+    {
+      "id": 1072,
+      "imageUrl": "/img/menu/detskoemenu-krab.jpg",
+      "name": "Картофельные улыбки",
+      "price": 220,
+      "discr": "Картофельные драники в виде улыбок.",
+      "weight": 150,
+      "category": 4,
+      "rating": 928
+    },
+    {
+      "id": 1073,
+      "imageUrl": "/img/menu/detskoemenu-ulybky.jpg",
+      "name": "Картофельные улыбки",
+      "price": 220,
+      "discr": "Картофельные драники в виде улыбок.",
+      "weight": 150,
+      "category": 4,
+      "rating": 927
+    },
+    {
+      "id": 1074,
+      "imageUrl": "/img/menu/detskoemenu-shariki.jpg",
+      "name": "Картофельные шарики",
+      "price": 150,
+      "discr": "Картофельное пюре в виде шариков.",
+      "weight": 150,
+      "category": 4,
+      "rating": 926
+    },
+    {
+      "id": 1075,
+      "imageUrl": "/img/menu/detskoemenu-free.jpg",
+      "name": "Картофель фри",
+      "price": 100,
+      "discr": "Картофель в виде брусочков.",
+      "weight": 150,
+      "category": 4,
+      "rating": 925
+    },
+    {
+      "id": 1076,
+      "imageUrl": "/img/menu/detskoemenu-pasta.jpg",
+      "name": "Спагетти под сыром",
+      "price": 80,
+      "discr": "Отваренные спагетти, приправленные сыром.",
+      "weight": 120,
+      "category": 4,
+      "rating": 924
+    },
+    {
+      "id": 1077,
+      "imageUrl": "/img/menu/detskoemenu-pure.jpg",
+      "name": "Картофельное пюре",
+      "price": 80,
+      "discr": "Нежное картофельное пюре со сливками.",
+      "weight": 200,
+      "category": 4,
+      "rating": 923
+    },
+    {
+      "id": 1078,
+      "imageUrl": "/img/menu/detskoemenu-pure.jpg",
+      "name": "Блины без начинки",
+      "price": 80,
+      "discr": "Блинчики по рецепту моей французской бабушки.",
+      "weight": 140,
+      "category": 4,
+      "rating": 922
+    },
+    {
+      "id": 1079,
+      "imageUrl": "/img/menu/zakuski-ezh.jpg",
+      "name": "Морской Ёжик",
+      "price": 230,
+      "discr": "Рулет из куриного филе, с нежной сливочно-сырной начинкой, в панировке.",
+      "weight": 150,
+      "category": 5,
+      "rating": 921
+    },
+    {
+      "id": 1080,
+      "imageUrl": "/img/menu/zakuski-sereny.jpg",
+      "name": "Поющие сирены",
+      "price": 230,
+      "discr": "Рулет из куриного филе, с нежной сливочно-сырной начинкой, в панировке.",
+      "weight": 150,
+      "category": 5,
+      "rating": 920
+    },
+    {
+      "id": 1081,
+      "imageUrl": "/img/menu/zakuski-korsar.jpg",
+      "name": "Пристань корсаров",
+      "price": 250,
+      "discr": "Рулет из свиной отбивной в сухарях, с начинкой из грибов, лука, сыра и сливочного масла.",
+      "weight": 150,
+      "category": 5,
+      "rating": 919
+    },
+    {
+      "id": 1082,
+      "imageUrl": "/img/menu/zakuski-val.jpg",
+      "name": "Девятый вал",
+      "price": 200,
+      "discr": "Крылья в панировке.",
+      "weight": 200,
+      "category": 5,
+      "rating": 918
+    },
+    {
+      "id": 1083,
+      "imageUrl": "/img/menu/zakuski-gorizont.jpg",
+      "name": "Морские горизонты",
+      "price": 250,
+      "discr": "Кальмары в панировке.",
+      "weight": 200,
+      "category": 5,
+      "rating": 917
+    },
+    {
+      "id": 1084,
+      "imageUrl": "/img/menu/zakuski-taynik.jpg",
+      "name": "Тайник пирата",
+      "price": 300,
+      "discr": "Запечённые сырные шарики (палочки) в панировке, подаются с сырно-чесночным соусом.",
+      "weight": 200,
+      "category": 5,
+      "rating": 916
+    },
+    {
+      "id": 1085,
+      "imageUrl": "/img/menu/zakuski-briz.jpg",
+      "name": "Морской бриз",
+      "price": 380,
+      "discr": "Креветки, отваренные со специями. Подаются с соусом терияки.",
+      "weight": 240,
+      "category": 5,
+      "rating": 915
+    },
+    {
+      "id": 1086,
+      "imageUrl": "/img/menu/zakuski-kon.jpg",
+      "name": "Кон-Тики",
+      "price": 350,
+      "discr": "Сыр, лук, крабовые палочки в панировке. Подаются с сухариками и сырно-чесночным соусом.",
+      "weight": 460,
+      "category": 5,
+      "rating": 914
+    },
+    {
+      "id": 1087,
+      "imageUrl": "/img/menu/zakuski-magelan.jpg",
+      "name": "Магеллан",
+      "price": 550,
+      "discr": "Сагудай из кеты, с маринованным луком, имбирем, лимоном и зеленью.",
+      "weight": 350,
+      "category": 5,
+      "rating": 913
+    },
+    {
+      "id": 1088,
+      "imageUrl": "/img/menu/zakuski-pomidory.jpg",
+      "name": "Борнео",
+      "price": 180,
+      "discr": "Помидоры, фаршированные сыром с чесноком.",
+      "weight": 210,
+      "category": 5,
+      "rating": 912
+    },
+    {
+      "id": 1089,
+      "imageUrl": "/img/menu/zakuski-chertyata.jpg",
+      "name": "Чертята",
+      "price": 390,
+      "discr": "Рулетики из баклажанов с сыром, чесноком, свежим огурцом, карбонадом полукопченым.",
+      "weight": 400,
+      "category": 5,
+      "rating": 911
+    },
+    {
+      "id": 1090,
+      "imageUrl": "/img/menu/zakuski-shuka.jpg",
+      "name": "Щука фаршированная за кг.",
+      "price": 1200,
+      "discr": "Фаршированная рыба запеченная в духовке.",
+      "weight": 1000,
+      "category": 5,
+      "rating": 910
+    },
+    {
+      "id": 1091,
+      "imageUrl": "/img/menu/narezki-ovosh.jpg",
+      "name": "Овощная нарезка",
+      "price": 340,
+      "discr": "Помидор свежий, огурец свежий, перец болгарский.",
+      "weight": 300,
+      "category": 6,
+      "rating": 909
+    },
+    {
+      "id": 1092,
+      "imageUrl": "/img/menu/narezki-frukt.jpg",
+      "name": "Фруктовая нарезка",
+      "price": 360,
+      "discr": "Яблоко, киви, банан, апельсин, груша.",
+      "weight": 500,
+      "category": 6,
+      "rating": 908
+    },
+    {
+      "id": 1093,
+      "imageUrl": "/img/menu/narezki-syr.jpg",
+      "name": "Сырная нарезка",
+      "price": 350,
+      "discr": "3 вида сыра, мед, грецкий орех.",
+      "weight": 200,
+      "category": 6,
+      "rating": 907
+    },
+    {
+      "id": 1094,
+      "imageUrl": "/img/menu/narezki-myaso.jpg",
+      "name": "Мясная нарезка",
+      "price": 420,
+      "discr": "3 вида деликатесного мяса, зелень.",
+      "weight": 200,
+      "category": 6,
+      "rating": 906
+    },
+    {
+      "id": 1095,
+      "imageUrl": "/img/menu/narezki-ryba.jpg",
+      "name": "Рыбная нарезка",
+      "price": 490,
+      "discr": "Кета полукопченая, горбуша полукопченая, скумбрия  полукопченая, лук маринованный, маслины.",
+      "weight": 200,
+      "category": 6,
+      "rating": 905
+    },
+    {
+      "id": 1096,
+      "imageUrl": "/img/menu/narezki-ryba.jpg",
+      "name": "Язык отварной с хреном",
+      "price": 450,
+      "discr": "Язык отварной с зеленью и соусом в виде хрена.",
+      "weight": 200,
+      "category": 6,
+      "rating": 904
     }
   ]
 }

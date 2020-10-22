@@ -52,7 +52,7 @@ function PizzaBlock({ id, name, imageUrl, price, discr, weight, types, sizes, on
             ))} */}
         </ul>
         <ul>
-          <p className="pizza-block__weight"><span>Вес:</span> {weight} гр.</p>
+          <p className="pizza-block__weight"><span>Вес: {weight} гр.</span></p>
         {/* {availableSizes.map((size, index) => (
             <li 
               key={index} 
