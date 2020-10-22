@@ -35,11 +35,11 @@ function PizzaBlock({ id, name, imageUrl, price, types, sizes, onClickAddPizza, 
         className="pizza-block__image"
         src={imageUrl}
         alt="Pizza"
-      />}
+      />} 
       <h4 className="pizza-block__title">{name}</h4>
       <div className="pizza-block__selector">
         <ul>
-          {availableTypes.map((type, index) => (
+          {/* {availableTypes.map((type, index) => (
             <li 
               key={type} 
               onClick={() => onSelectType(index)} 
@@ -48,10 +48,10 @@ function PizzaBlock({ id, name, imageUrl, price, types, sizes, onClickAddPizza, 
                 disabled: !types.includes(index),
               })}
             >{type}</li>
-            ))}
+            ))} */}
         </ul>
         <ul>
-        {availableSizes.map((size, index) => (
+        {/* {availableSizes.map((size, index) => (
             <li 
               key={index} 
               onClick={() => onSelectSize(size)} 
@@ -62,7 +62,7 @@ function PizzaBlock({ id, name, imageUrl, price, types, sizes, onClickAddPizza, 
             >
               {size} см.
             </li>
-            ))}
+            ))} */}
         </ul>
       </div>
       <div className="pizza-block__bottom">

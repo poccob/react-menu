@@ -6,11 +6,20 @@ import { setCategory, setSortBy } from '../redux/actions/filters';
 import { fetchPizzas } from '../redux/actions/pizzas';
 
 const categoryNames = [
-  'Мясные',
-  'Вегетарианская',
-  'Гриль',
-  'Острые',
-  'Закрытые'
+  'Салаты',
+  'Горячее',
+  'На компанию',
+  'Пицца',
+  'Детское',
+  'Закуски',
+  'Нарезки',
+  'Супы',
+  'Жульены',
+  'Гарниры',
+  'Соусы',
+  'Десерты',
+  'Напитки',
+  'Коктейли'
 ];
 const sortItems = [
   {name: 'популярности', type: 'popular', order: 'desc'}, 
@@ -49,6 +58,7 @@ function Home() {
 
   return (
     <div className="container">
+      <h2 className="content__title">Меню</h2>
       <div className="content__top">
         <Categories 
         activeCategory={category}
@@ -60,7 +70,7 @@ function Home() {
           onClickSortType={onSelectSortType}
         />
       </div>
-      <h2 className="content__title">Все пиццы</h2>
+      
       <div className="content__items">
         {
           isLoaded 

@@ -100,5 +100,527 @@
       "category": 5,
       "rating": 7
     }
+  ],
+  "menu": [
+    {
+      "id": 1000,
+      "imageUrl": "/img/menu/salat-albatros.jpg",
+      "name": "Гнездо Альбатроса",
+      "price": 190,
+      "discr": "Яйцо, листья салата, огурец свежий, курица, картофель «Пай», зелень, соус.",
+      "weight": 200,
+      "category": 0,
+      "rating": 1000
+    },
+    {
+      "id": 1001,
+      "imageUrl": "/img/menu/salat-mayak.jpg",
+      "name": "Маяк",
+      "price": 190,
+      "discr": "Курица отварная, помидор свежий, лук, грибы, соус.",
+      "weight": 200,
+      "category": 0,
+      "rating": 999
+    },
+    {
+      "id": 1002,
+      "imageUrl": "/img/menu/salat-kaut.jpg",
+      "name": "Кают-компания",
+      "price": 200,
+      "discr": "Курица отварная, ананас, огурец свежий, помидор свежий, лук, соус, зелень.",
+      "weight": 200,
+      "category": 0,
+      "rating": 998
+    },
+    {
+      "id": 1003,
+      "imageUrl": "/img/menu/salat-kaut.jpg",
+      "name": "Морской кайф",
+      "price": 225,
+      "discr": "Курица отварная, курица копчённая, помидор свежий, мак, грецкий орех, пикантные сухарики, соус, зелень.",
+      "weight": 200,
+      "category": 0,
+      "rating": 997
+    },
+    {
+      "id": 1004,
+      "imageUrl": "/img/menu/salat-ostrov.jpg",
+      "name": "Заброшенный остров",
+      "price": 200,
+      "discr": "Колбаса полукопченая, пикантные сухарики, горошек зеленый, огурец свежий, сыр, яйцо, соус, зелень.",
+      "weight": 200,
+      "category": 0,
+      "rating": 996
+    },
+    {
+      "id": 1005,
+      "imageUrl": "/img/menu/salat-flint.jpg",
+      "name": "Флинт",
+      "price": 200,
+      "discr": "Колбаса полукопченая, огурец свежий, яйцо, сыр, лук, соус, зелень.",
+      "weight": 200,
+      "category": 0,
+      "rating": 995
+    },
+    {
+      "id": 1006,
+      "imageUrl": "/img/menu/salat-veterok.jpg",
+      "name": "Веяние ветерка",
+      "price": 200,
+      "discr": "Колбаса полукопченая, сыр, яйцо, морковь по-корейски, чеснок, майонез.",
+      "weight": 200,
+      "category": 0,
+      "rating": 994
+    },
+    {
+      "id": 1007,
+      "imageUrl": "/img/menu/salat-solntse.jpg",
+      "name": "Карибское солнце",
+      "price": 190,
+      "discr": "Ветчина, грибы, картофель отварной, огурцы маринованные, горошек зеленый, соус.",
+      "weight": 200,
+      "category": 0,
+      "rating": 993
+    },
+    {
+      "id": 1008,
+      "imageUrl": "/img/menu/salat-kutezh.jpg",
+      "name": "Пиратский кутёж",
+      "price": 280,
+      "discr": "Ветчина, говядина полукопченая, свинина полукопченая, грибы, лук, соус, зелень.",
+      "weight": 200,
+      "category": 0,
+      "rating": 992
+    },
+    {
+      "id": 1009,
+      "imageUrl": "/img/menu/salat-piratka.jpg",
+      "name": "Пиратка",
+      "price": 200,
+      "discr": "Язык отварной, капуста брокколи, корейская морковь, огурец свежий, лук, соус.",
+      "weight": 200,
+      "category": 0,
+      "rating": 991
+    },
+    {
+      "id": 1010,
+      "imageUrl": "/img/menu/salat-udacha.jpg",
+      "name": "Удача пирата",
+      "price": 230,
+      "discr": "Язык отварной, курица отварная, яйцо, огурец маринованный, горошек зеленый, лук, соус, зелень.",
+      "weight": 200,
+      "category": 0,
+      "rating": 990
+    },
+    {
+      "id": 1011,
+      "imageUrl": "/img/menu/salat-bocman.jpg",
+      "name": "Болтливый боцман",
+      "price": 315,
+      "discr": "Язык отварной, грибы консервированные, колбаса полукопченая, курица отварная, лук, соус, зелень.",
+      "weight": 200,
+      "category": 0,
+      "rating": 989
+    },
+    {
+      "id": 1012,
+      "imageUrl": "/img/menu/salat-veter.jpg",
+      "name": "Попутный ветер",
+      "price": 270,
+      "discr": "Язык, грибы, помидор, сыр, чеснок, майонез.",
+      "weight": 200,
+      "category": 0,
+      "rating": 988
+    },
+    {
+      "id": 1013,
+      "imageUrl": "/img/menu/salat-dyavol.jpg",
+      "name": "Красный дьявол",
+      "price": 240,
+      "discr": "Говядина отварная, грецкий орех, грибы, огурец свежий, перец болгарский, морковь по-корейски, соус, зелень.",
+      "weight": 200,
+      "category": 0,
+      "rating": 987
+    },
+    {
+      "id": 1014,
+      "imageUrl": "/img/menu/salat-yakor.jpg",
+      "name": "Поднять якорь",
+      "price": 240,
+      "discr": "Говядина отварная, грибы, огурец свежий,  лук пассированный,  сметана, зелень.",
+      "weight": 200,
+      "category": 0,
+      "rating": 986
+    },
+    {
+      "id": 1015,
+      "imageUrl": "/img/menu/salat-ostrov-tain.jpg",
+      "name": "Таинственный остров",
+      "price": 265,
+      "discr": "Говядина отварная, морковь пассированная, лук пассированный, огурец  маринованный, соус.",
+      "weight": 200,
+      "category": 0,
+      "rating": 985
+    },
+    {
+      "id": 1016,
+      "imageUrl": "/img/menu/salat-pristan.jpg",
+      "name": "Тихая пристань",
+      "price": 150,
+      "discr": "Папоротник, картофель отварной, огурец маринованный, горошек зеленый, яйцо, лук пассированный, яблоко, соус, зелень.",
+      "weight": 200,
+      "category": 0,
+      "rating": 984
+    },
+    {
+      "id": 1017,
+      "imageUrl": "/img/menu/salat-pulya.jpg",
+      "name": "Шальная пуля",
+      "price": 185,
+      "discr": "Папоротник, лук пассированный, яйцо, курица отварная,  соус, зелень.",
+      "weight": 200,
+      "category": 0,
+      "rating": 983
+    },
+    {
+      "id": 1018,
+      "imageUrl": "/img/menu/salat-cudovishe.jpg",
+      "name": "Морское чудовище",
+      "price": 240,
+      "discr": "Кальмар отварной, огурец свежий, крабовые палочки, яйцо, лук репчатый, майонез.",
+      "weight": 200,
+      "category": 0,
+      "rating": 982
+    },
+    {
+      "id": 1019,
+      "imageUrl": "/img/menu/salat-zvezda.jpg",
+      "name": "Морская звезда",
+      "price": 300,
+      "discr": "Кальмар отварной, рыба полукопченая, крабовые палочки, лук репчатый, красная икра имитированная, майонез.",
+      "weight": 200,
+      "category": 0,
+      "rating": 981
+    },
+    {
+      "id": 1020,
+      "imageUrl": "/img/menu/salat-pirat.jpg",
+      "name": "Пират из Греции",
+      "price": 230,
+      "discr": "Сыр Фетта, помидор свежий, перец болгарский, огурец свежий, маслины, ароматное масло, лист салата.",
+      "weight": 200,
+      "category": 0,
+      "rating": 980
+    },
+    {
+      "id": 1021,
+      "imageUrl": "/img/menu/salat-cesar.jpg",
+      "name": "Цезарь с курицей",
+      "price": 260,
+      "discr": "Листья салата, помидор, гренки, сыр Пармезан, курица, соус.",
+      "weight": 200,
+      "category": 0,
+      "rating": 979
+    },
+    {
+      "id": 1022,
+      "imageUrl": "/img/menu/salat-cesar-vetch.jpg",
+      "name": "Цезарь с ветчиной",
+      "price": 270,
+      "discr": "Листья салата, помидор, гренки, сыр Пармезан, ветчина, соус.",
+      "weight": 200,
+      "category": 0,
+      "rating": 978
+    },
+    {
+      "id": 1023,
+      "imageUrl": "/img/menu/salat-cesar-crev.jpg",
+      "name": "Цезарь с креветками",
+      "price": 350,
+      "discr": "Листья салата, помидор, гренки, сыр Пармезан, креветки, соус.",
+      "weight": 200,
+      "category": 0,
+      "rating": 977
+    },
+    {
+      "id": 1024,
+      "imageUrl": "/img/menu/salat-zemchuzina.jpg",
+      "name": "Жемчужина",
+      "price": 260,
+      "discr": "Баклажан, сыр, перец болгарский, грибы, чеснок, майонез.",
+      "weight": 200,
+      "category": 0,
+      "rating": 976
+    },
+    {
+      "id": 1025,
+      "imageUrl": "/img/menu/goracee-tortuga.jpg",
+      "name": "ТОРТУГА - фирменное блюдо",
+      "price": 500,
+      "discr": "Язык в сливочно-грибном соусе, с зеленью.",
+      "weight": 250,
+      "category": 1,
+      "rating": 975
+    },
+    {
+      "id": 1026,
+      "imageUrl": "/img/menu/goracee-rybka.jpg",
+      "name": "Рыбка по-гречески",
+      "price": 280,
+      "discr": "Филе кеты, запеченное с морковью, помидором, луком и болгарским перцем, под майонезом.",
+      "weight": 150,
+      "category": 1,
+      "rating": 974
+    },
+    {
+      "id": 1027,
+      "imageUrl": "/img/menu/goracee-golandec.jpg",
+      "name": "Летучий голландец",
+      "price": 310,
+      "discr": "Филе кеты с чесночным соусом, запеченное под сыром и майонезом.",
+      "weight": 150,
+      "category": 1,
+      "rating": 973
+    },
+    {
+      "id": 1028,
+      "imageUrl": "/img/menu/goracee-pascar.jpg",
+      "name": "Три пескаря",
+      "price": 300,
+      "discr": "Горбуша в кляре",
+      "weight": 150,
+      "category": 1,
+      "rating": 972
+    },
+    {
+      "id": 1029,
+      "imageUrl": "/img/menu/goracee-pascar.jpg",
+      "name": "Сан-Марино",
+      "price": 330,
+      "discr": "Филе кеты запеченное под маринованным луком, сыром и майонезом.",
+      "weight": 150,
+      "category": 1,
+      "rating": 971
+    },
+    {
+      "id": 1030,
+      "imageUrl": "/img/menu/goracee-ostrov.jpg",
+      "name": "Остров сокровищ",
+      "price": 295,
+      "discr": "Эскалоп из свинины, запеченный под луком, сыром и майонезом.",
+      "weight": 150,
+      "category": 1,
+      "rating": 970
+    },
+    {
+      "id": 1031,
+      "imageUrl": "/img/menu/goracee-silver.jpg",
+      "name": "Джон Сильвер",
+      "price": 295,
+      "discr": "Эскалоп из свинины, запеченный с грибами под луком, сыром и майонезом.",
+      "weight": 150,
+      "category": 1,
+      "rating": 969
+    },
+    {
+      "id": 1032,
+      "imageUrl": "/img/menu/goracee-bons.jpg",
+      "name": "Билли Бонс",
+      "price": 295,
+      "discr": "Эскалоп из свинины, запеченный с помидорами под луком, сыром и майонезом.",
+      "weight": 150,
+      "category": 1,
+      "rating": 968
+    },
+    {
+      "id": 1033,
+      "imageUrl": "/img/menu/goracee-bons.jpg",
+      "name": "Порт Роял",
+      "price": 300,
+      "discr": "Свинина с баклажанами, помидорами, луком  под соевым соусом и сыром.",
+      "weight": 150,
+      "category": 1,
+      "rating": 967
+    },
+    {
+      "id": 1034,
+      "imageUrl": "/img/menu/goracee-capitan.jpg",
+      "name": "Капитанский обед",
+      "price": 480,
+      "discr": "Замаринованные в соевом соусе кусочки свинины, обжаренные с луком. Подаётся с картофелем (отварной или жаренный по домашнему).",
+      "weight": 400,
+      "category": 1,
+      "rating": 966
+    },
+    {
+      "id": 1035,
+      "imageUrl": "/img/menu/goracee-golf.jpg",
+      "name": "Гольфстрим",
+      "price": 420,
+      "discr": "Говяжья отбивная, запеченная с копченостями,  грибами, луком, под сыром и майонезом.",
+      "weight": 160,
+      "category": 1,
+      "rating": 965
+    },
+    {
+      "id": 1036,
+      "imageUrl": "/img/menu/goracee-argo.jpg",
+      "name": "Арго",
+      "price": 420,
+      "discr": "Говяжья отбивная, запечённая с помидором, луком, чесноком и майонезом с зеленью.",
+      "weight": 150,
+      "category": 1,
+      "rating": 964
+    },
+    {
+      "id": 1037,
+      "imageUrl": "/img/menu/goracee-legenda.jpg",
+      "name": "Легенда Маракайбо",
+      "price": 420,
+      "discr": "Говяжья отбивная, запеченная с папоротником, украшенная зеленью.",
+      "weight": 150,
+      "category": 1,
+      "rating": 963
+    },
+    {
+      "id": 1038,
+      "imageUrl": "/img/menu/goracee-mechta.jpg",
+      "name": "Мечта матроса",
+      "price": 300,
+      "discr": "Куриное филе, обжаренное с кунжутом в соусе терияки.",
+      "weight": 250,
+      "category": 1,
+      "rating": 962
+    },
+    {
+      "id": 1039,
+      "imageUrl": "/img/menu/goracee-shepot.jpg",
+      "name": "Шёпот океана",
+      "price": 315,
+      "discr": "Куриная отбивная запеченная с грибами под сыром и луком.",
+      "weight": 250,
+      "category": 1,
+      "rating": 961
+    },
+    {
+      "id": 1040,
+      "imageUrl": "/img/menu/goracee-boy.jpg",
+      "name": "Перед боем",
+      "price": 315,
+      "discr": "Куриная отбивная, запеченная под помидором, сыром и луком.",
+      "weight": 250,
+      "category": 1,
+      "rating": 960
+    },
+    {
+      "id": 1041,
+      "imageUrl": "/img/menu/goracee-carica.jpg",
+      "name": "Царица морей",
+      "price": 360,
+      "discr": "Куриная отбивная с ананасом, курагой и грецким орехом.",
+      "weight": 250,
+      "category": 1,
+      "rating": 959
+    },
+    {
+      "id": 1041,
+      "imageUrl": "/img/menu/goracee-carica.jpg",
+      "name": "Царица морей",
+      "price": 360,
+      "discr": "Куриная отбивная с ананасом, курагой и грецким орехом.",
+      "weight": 250,
+      "category": 1,
+      "rating": 959
+    },
+    {
+      "id": 1042,
+      "imageUrl": "/img/menu/goracee-vorobey.jpg",
+      "name": "Джек Воробей",
+      "price": 900,
+      "discr": "Курица с овощами, обжаренная в соевом соусе.",
+      "weight": 800,
+      "category": 2,
+      "rating": 958
+    },
+    {
+      "id": 1043,
+      "imageUrl": "/img/menu/goracee-terner.jpg",
+      "name": "Уилл Тернер",
+      "price": 900,
+      "discr": "Замаринованные кусочки курицы, обжаренные с овощами и ананасом в кисло-сладком соусе.",
+      "weight": 800,
+      "category": 2,
+      "rating": 957
+    },
+    {
+      "id": 1044,
+      "imageUrl": "/img/menu/goracee-terner.jpg",
+      "name": "Капитан Барбосса",
+      "price": 1000,
+      "discr": "Замаринованные кусочки курицы, обжаренные с баклажанами, луком, болгарским перцем под соусом.",
+      "weight": 800,
+      "category": 2,
+      "rating": 956
+    },
+    {
+      "id": 1045,
+      "imageUrl": "/img/menu/goracee-kruz.jpg",
+      "name": "Санта Круз",
+      "price": 1300,
+      "discr": "Свинина с овощами, обжаренная в соевом соусе.",
+      "weight": 800,
+      "category": 2,
+      "rating": 955
+    },
+    {
+      "id": 1046,
+      "imageUrl": "/img/menu/goracee-bagamy.jpg",
+      "name": "Багамы",
+      "price": 1300,
+      "discr": "Свинина в кисло-сладком соусе с овощами и ананасом.",
+      "weight": 800,
+      "category": 2,
+      "rating": 954
+    },
+    {
+      "id": 1047,
+      "imageUrl": "/img/menu/goracee-bagamy.jpg",
+      "name": "Барбаросса",
+      "price": 1300,
+      "discr": "Свинина, обжаренная  с баклажанами, луком, болгарским перцем под соусом.",
+      "weight": 800,
+      "category": 2,
+      "rating": 953
+    },
+    {
+      "id": 1048,
+      "imageUrl": "/img/menu/goracee-yamayka.jpg",
+      "name": "Ямайка",
+      "price": 900,
+      "discr": "Кусочки кеты с овощами, обжаренные в соевом соусе.",
+      "weight": 800,
+      "category": 2,
+      "rating": 952
+    },
+    {
+      "id": 1049,
+      "imageUrl": "/img/menu/goracee-sem.jpg",
+      "name": "Черный Сэм",
+      "price": 1600,
+      "discr": "Говядина с овощами, обжаренная в соевом соусе.",
+      "weight": 800,
+      "category": 2,
+      "rating": 951
+    },
+    {
+      "id": 1050,
+      "imageUrl": "/img/menu/goracee-sem.jpg",
+      "name": "На всю команду",
+      "price": 2100,
+      "discr": "Говяжья вырезка, свиная вырезка, куриные крылышки, картофель по-домашнему",
+      "weight": 1500,
+      "category": 2,
+      "rating": 950
+    }
   ]
 }

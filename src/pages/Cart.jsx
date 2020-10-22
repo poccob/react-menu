@@ -144,7 +144,7 @@ function Cart() {
           <div className="cart__bottom">
             <div className="cart__bottom-details">
               <span>
-                Всего пицц: <b>{totalCount} шт.</b>
+                Всего позиций: <b>{totalCount} шт.</b>
               </span>
               <span>
                 Сумма заказа: <b>{totalPrice} ₽</b>
@@ -169,7 +169,7 @@ function Cart() {
                 <span>Вернуться назад</span>
               </Link>
               <Button onClick={onClickOrder} className="pay-btn">
-                <span>Оплатить сейчас</span>
+                <span>СДЕЛАТЬ ЗАКАЗ</span>
               </Button>
             </div>
           </div>
