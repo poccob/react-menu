@@ -134,7 +134,7 @@
     },
     {
       "id": 1003,
-      "imageUrl": "/img/menu/salat-kaut.jpg",
+      "imageUrl": "/img/menu/salat-kaif.jpg",
       "name": "Морской кайф",
       "price": 225,
       "discr": "Курица отварная, курица копчённая, помидор свежий, мак, грецкий орех, пикантные сухарики, соус, зелень.",
@@ -174,7 +174,7 @@
     },
     {
       "id": 1007,
-      "imageUrl": "/img/menu/salat-solntse.jpg",
+      "imageUrl": "/img/menu/salat-solntce.jpg",
       "name": "Карибское солнце",
       "price": 190,
       "discr": "Ветчина, грибы, картофель отварной, огурцы маринованные, горошек зеленый, соус.",
@@ -284,7 +284,7 @@
     },
     {
       "id": 1018,
-      "imageUrl": "/img/menu/salat-cudovishe.jpg",
+      "imageUrl": "/img/menu/salat-chudovishe.jpg",
       "name": "Морское чудовище",
       "price": 240,
       "discr": "Кальмар отварной, огурец свежий, крабовые палочки, яйцо, лук репчатый, майонез.",
@@ -384,7 +384,7 @@
     },
     {
       "id": 1028,
-      "imageUrl": "/img/menu/goracee-pascar.jpg",
+      "imageUrl": "/img/menu/goracee-pescar.jpg",
       "name": "Три пескаря",
       "price": 300,
       "discr": "Горбуша в кляре",
@@ -394,7 +394,7 @@
     },
     {
       "id": 1029,
-      "imageUrl": "/img/menu/goracee-pascar.jpg",
+      "imageUrl": "/img/menu/goracee-marino.jpg",
       "name": "Сан-Марино",
       "price": 330,
       "discr": "Филе кеты запеченное под маринованным луком, сыром и майонезом.",
@@ -523,16 +523,6 @@
       "rating": 959
     },
     {
-      "id": 1041,
-      "imageUrl": "/img/menu/goracee-carica.jpg",
-      "name": "Царица морей",
-      "price": 360,
-      "discr": "Куриная отбивная с ананасом, курагой и грецким орехом.",
-      "weight": 250,
-      "category": 1,
-      "rating": 959
-    },
-    {
       "id": 1042,
       "imageUrl": "/img/menu/goracee-vorobey.jpg",
       "name": "Джек Воробей",
@@ -564,7 +554,7 @@
     },
     {
       "id": 1045,
-      "imageUrl": "/img/menu/goracee-kruz.jpg",
+      "imageUrl": "/img/menu/goracee-cruz.jpg",
       "name": "Санта Круз",
       "price": 1300,
       "discr": "Свинина с овощами, обжаренная в соевом соусе.",
