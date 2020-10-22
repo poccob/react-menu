@@ -784,7 +784,7 @@
     },
     {
       "id": 1068,
-      "imageUrl": "/img/menu/detskoemenu-osminog.jpg",
+      "imageUrl": "/img/menu/detskoemenu-korsar.jpg",
       "name": "Корсар",
       "price": 140,
       "discr": "Пикантная курочка.",
@@ -814,7 +814,7 @@
     },
     {
       "id": 1071,
-      "imageUrl": "/img/menu/detskoemenu-krab.jpg",
+      "imageUrl": "/img/menu/detskoemenu-piastry.jpg",
       "name": "Пиастры",
       "price": 200,
       "discr": "Картофельные драники со сметаной.",
@@ -824,7 +824,7 @@
     },
     {
       "id": 1072,
-      "imageUrl": "/img/menu/detskoemenu-krab.jpg",
+      "imageUrl": "/img/menu/detskoemenu-ulybky.jpg",
       "name": "Картофельные улыбки",
       "price": 220,
       "discr": "Картофельные драники в виде улыбок.",
@@ -884,7 +884,7 @@
     },
     {
       "id": 1078,
-      "imageUrl": "/img/menu/detskoemenu-pure.jpg",
+      "imageUrl": "/img/menu/detskoemenu-bliny.jpg",
       "name": "Блины без начинки",
       "price": 80,
       "discr": "Блинчики по рецепту моей французской бабушки.",
@@ -1064,7 +1064,7 @@
     },
     {
       "id": 1096,
-      "imageUrl": "/img/menu/narezki-ryba.jpg",
+      "imageUrl": "/img/menu/narezki-yazik.jpg",
       "name": "Язык отварной с хреном",
       "price": 450,
       "discr": "Язык отварной с зеленью и соусом в виде хрена.",
