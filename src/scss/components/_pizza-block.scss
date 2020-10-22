@@ -18,11 +18,17 @@
   }
 
   &__wrap-image {
-    min-height: 200px;
+    min-height: 250px;
+    position: relative;
   }
 
   &__image {
-    width: 200px;
+    width: 260px;
+    border-radius: 50%;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
   }
 
   &__title {

@@ -604,13 +604,133 @@
     },
     {
       "id": 1050,
-      "imageUrl": "/img/menu/goracee-sem.jpg",
+      "imageUrl": "/img/menu/goracee-komanda.jpg",
       "name": "На всю команду",
       "price": 2100,
       "discr": "Говяжья вырезка, свиная вырезка, куриные крылышки, картофель по-домашнему",
       "weight": 1500,
       "category": 2,
       "rating": 950
+    },
+    {
+      "id": 1051,
+      "imageUrl": "/img/menu/pizza-ovosh.jpg",
+      "name": "Пицца овощная",
+      "price": 290,
+      "discr": "Помидор свежий, грибы, огурец свежий, лук, соус, сыр.",
+      "weight": 600,
+      "category": 3,
+      "rating": 949
+    },
+    {
+      "id": 1052,
+      "imageUrl": "/img/menu/pizza-grib.jpg",
+      "name": "Пицца грибная",
+      "price": 290,
+      "discr": "Помидор свежий, грибы, лук, соус, сыр.",
+      "weight": 600,
+      "category": 3,
+      "rating": 948
+    },
+    {
+      "id": 1053,
+      "imageUrl": "/img/menu/pizza-solo.jpg",
+      "name": "Пицца соло",
+      "price": 310,
+      "discr": "Колбаса полукопченая, соус, сыр.",
+      "weight": 600,
+      "category": 3,
+      "rating": 947
+    },
+    {
+      "id": 1054,
+      "imageUrl": "/img/menu/pizza-copch.jpg",
+      "name": "Пицца с копчёностями",
+      "price": 310,
+      "discr": "Курица копченая, колбаса полукопченая, сыр копченый, лук, соус, сыр.",
+      "weight": 600,
+      "category": 3,
+      "rating": 946
+    },
+    {
+      "id": 1055,
+      "imageUrl": "/img/menu/pizza-kur.jpg",
+      "name": "Пицца куриная",
+      "price": 330,
+      "discr": "Курица отварная, грибы, огурец маринованный, маслины, лук, соус, сыр.",
+      "weight": 600,
+      "category": 3,
+      "rating": 945
+    },
+    {
+      "id": 1056,
+      "imageUrl": "/img/menu/pizza-kur.jpg",
+      "name": "Мини-пицца куриная",
+      "price": 210,
+      "discr": "Курица отварная, грибы, огурец маринованный, маслины, лук, соус, сыр.",
+      "weight": 360,
+      "category": 3,
+      "rating": 944
+    },
+    {
+      "id": 1057,
+      "imageUrl": "/img/menu/pizza-kolb.jpg",
+      "name": "Пицца с колбасой",
+      "price": 330,
+      "discr": "Помидор свежий, колбаса вареная, лук, соус, сыр.",
+      "weight": 600,
+      "category": 3,
+      "rating": 943
+    },
+    {
+      "id": 1058,
+      "imageUrl": "/img/menu/pizza-kolb.jpg",
+      "name": "Мини-пицца с колбасой",
+      "price": 210,
+      "discr": "Помидор свежий, колбаса вареная, лук, соус, сыр.",
+      "weight": 360,
+      "category": 3,
+      "rating": 942
+    },
+    {
+      "id": 1059,
+      "imageUrl": "/img/menu/pizza-kolb.jpg",
+      "name": "Пицца с ветчиной",
+      "price": 330,
+      "discr": "Ветчина, грибы, соус, сыр.",
+      "weight": 600,
+      "category": 3,
+      "rating": 941
+    },
+    {
+      "id": 1060,
+      "imageUrl": "/img/menu/pizza-kolb.jpg",
+      "name": "Пицца Маргарита",
+      "price": 345,
+      "discr": "Помидор свежий, колбаса полукопченая, лук, соус, сыр.",
+      "weight": 600,
+      "category": 3,
+      "rating": 940
+    },
+    {
+      "id": 1061,
+      "imageUrl": "/img/menu/pizza-marg.jpg",
+      "name": "Пицца Маргарита",
+      "price": 345,
+      "discr": "Помидор свежий, колбаса полукопченая, лук, соус, сыр.",
+      "weight": 600,
+      "category": 3,
+      "rating": 939
+    },
+    {
+      "id": 1062,
+      "imageUrl": "/img/menu/pizza-syr.jpg",
+      "name": "Пицца  с сыром",
+      "price": 300,
+      "discr": "Помидор свежий, колбаса полукопченая, лук, соус, сыр.",
+      "weight": 600,
+      "category": 3,
+      "rating": 938
     }
   ]
 }
