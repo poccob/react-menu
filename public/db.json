@@ -833,16 +833,6 @@
       "rating": 928
     },
     {
-      "id": 1073,
-      "imageUrl": "/img/menu/detskoemenu-ulybky.jpg",
-      "name": "Картофельные улыбки",
-      "price": 220,
-      "discr": "Картофельные драники в виде улыбок.",
-      "weight": 150,
-      "category": 4,
-      "rating": 927
-    },
-    {
       "id": 1074,
       "imageUrl": "/img/menu/detskoemenu-shariki.jpg",
       "name": "Картофельные шарики",
@@ -1071,6 +1061,56 @@
       "weight": 200,
       "category": 6,
       "rating": 904
+    },
+    {
+      "id": 1097,
+      "imageUrl": "/img/menu/supy-uha.jpg",
+      "name": "Уха",
+      "price": 250,
+      "discr": "Кета, горбуша, картофель, лук, морковь, помидор.",
+      "weight": 250,
+      "category": 7,
+      "rating": 903
+    },
+    {
+      "id": 1098,
+      "imageUrl": "/img/menu/supy-brokoli.jpg",
+      "name": "Суп-пюре из брокколи",
+      "price": 200,
+      "discr": "Брокколи, горошек зелёный, лук, сметана, соус «Бешамель», гренки.",
+      "weight": 250,
+      "category": 7,
+      "rating": 902
+    },
+    {
+      "id": 1099,
+      "imageUrl": "/img/menu/supy-grib.jpg",
+      "name": "Суп-пюре грибной",
+      "price": 200,
+      "discr": "Шампиньоны, лук, картофель, гренки.",
+      "weight": 250,
+      "category": 7,
+      "rating": 901
+    },
+    {
+      "id": 1100,
+      "imageUrl": "/img/menu/supy-syr.jpg",
+      "name": "Суп-пюре сырный с креветкой",
+      "price": 250,
+      "discr": "Сыр, картофель, перец болгарский, креветка, гренки.",
+      "weight": 250,
+      "category": 7,
+      "rating": 900
+    },
+    {
+      "id": 1101,
+      "imageUrl": "/img/menu/supy-solyanka.jpg",
+      "name": "Солянка",
+      "price": 250,
+      "discr": "Говядина, свинина, колбаса, лук, огурец маринованный, картофель, специи, лимон.",
+      "weight": 250,
+      "category": 7,
+      "rating": 899
     }
   ]
 }
