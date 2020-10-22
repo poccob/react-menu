@@ -714,23 +714,13 @@
     },
     {
       "id": 1061,
-      "imageUrl": "/img/menu/pizza-marg.jpg",
-      "name": "Пицца Маргарита",
-      "price": 345,
-      "discr": "Помидор свежий, колбаса полукопченая, лук, соус, сыр.",
-      "weight": 600,
-      "category": 3,
-      "rating": 939
-    },
-    {
-      "id": 1062,
       "imageUrl": "/img/menu/pizza-syr.jpg",
-      "name": "Пицца  с сыром",
+      "name": "Пицца с сыром",
       "price": 300,
       "discr": "Помидор свежий, колбаса полукопченая, лук, соус, сыр.",
       "weight": 600,
       "category": 3,
-      "rating": 938
+      "rating": 939
     }
   ]
 }
