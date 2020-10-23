@@ -727,7 +727,7 @@
       "imageUrl": "/img/menu/uslugi-detsk.jpg",
       "name": "Детская комната за час",
       "price": 250,
-      "nodiscr": "Стоимость указана за час в выходные и праздничные дни, а так же по будням после 18 часов. Стоимость по будням до 18 часов - 100 руб. в час",
+      "nodiscr": "Стоимость за час на КАЖДОГО ребенка в выходные и праздничные дни, а так же по будням после 18 часов. Стоимость по будням до 18 часов - 100 руб. в час",
       "weight": 0,
       "category": 4,
       "rating": 938
@@ -1331,6 +1331,306 @@
       "weight": 40,
       "category": 10,
       "rating": 876
+    },
+    {
+      "id": 1125,
+      "imageUrl": "/img/menu/deserti-moroz.jpg",
+      "name": "Мороженое",
+      "price": 120,
+      "discr": "Мороженое в ассортименте - ванильное, шоколадное, клубничное",
+      "weight": 150,
+      "category": 11,
+      "rating": 875
+    },
+    {
+      "id": 1126,
+      "imageUrl": "/img/menu/deserti-moroz.jpg",
+      "name": "Мороженое 1/2 порции",
+      "price": 70,
+      "discr": "Мороженое в ассортименте - ванильное, шоколадное, клубничное",
+      "weight": 75,
+      "category": 11,
+      "rating": 874
+    },
+    {
+      "id": 1127,
+      "imageUrl": "/img/menu/deserti-skazka.jpg",
+      "name": "Сказочное удовольствие",
+      "price": 150,
+      "discr": "Мороженое, топинг, конфеты, сладкая палочка.",
+      "weight": 175,
+      "category": 11,
+      "rating": 873
+    },
+    {
+      "id": 1128,
+      "imageUrl": "/img/menu/deserti-skazka.jpg",
+      "name": "Фруктовое удовольствие",
+      "price": 220,
+      "discr": "Яблоко, груша, апельсин, киви, банан, сливочный йогурт. Наполнители - по желанию.",
+      "weight": 220,
+      "category": 11,
+      "rating": 872
+    },
+    {
+      "id": 1129,
+      "imageUrl": "/img/menu/deserti-chiz.jpg",
+      "name": "Чизкейк",
+      "price": 150,
+      "discr": "В ассортименте - шоколадный, клубничный, ванильный.",
+      "weight": 125,
+      "category": 11,
+      "rating": 871
+    },
+    {
+      "id": 1130,
+      "imageUrl": "/img/menu/deserti-vafli.jpg",
+      "name": "Вафли",
+      "price": 190,
+      "discr": "Вафли с наполнителем на выбор - крем сливочный, мороженое, фрукты, топинг.",
+      "weight": 140,
+      "category": 11,
+      "rating": 870
+    },
+    {
+      "id": 1131,
+      "imageUrl": "/img/menu/deserti-shokolad.jpg",
+      "name": "Шоколад",
+      "price": 40,
+      "discr": "Вафли с наполнителем на выбор - крем сливочный, мороженое, фрукты, топинг.",
+      "weight": 10,
+      "category": 11,
+      "rating": 869
+    },
+    {
+      "id": 1132,
+      "imageUrl": "/img/menu/deserti-dzem.jpg",
+      "name": "Джем",
+      "price": 40,
+      "discr": "Джем в ассортименте.",
+      "weight": 20,
+      "category": 11,
+      "rating": 868
+    },
+    {
+      "id": 1133,
+      "imageUrl": "/img/menu/deserti-moloko.jpg",
+      "name": "Молоко сгущенное",
+      "price": 50,
+      "discr": "Молоко сгущенное с сахаром.",
+      "weight": 20,
+      "category": 11,
+      "rating": 867
+    },
+    {
+      "id": 1134,
+      "imageUrl": "/img/menu/deserti-moloko.jpg",
+      "name": "Орех грецкий",
+      "price": 50,
+      "discr": "Очищенный грецкий орех",
+      "weight": 10,
+      "category": 11,
+      "rating": 866
+    },
+    {
+      "id": 1135,
+      "imageUrl": "/img/menu/deserti-moloko.jpg",
+      "name": "Мед",
+      "price": 50,
+      "discr": "Мед местных производителей из разнотравья.",
+      "weight": 20,
+      "category": 11,
+      "rating": 865
+    },
+    {
+      "id": 1136,
+      "imageUrl": "/img/menu/napitki-kokt.jpg",
+      "name": "Молочный коктейль",
+      "price": 80,
+      "discr": "Молочный коктейль без наполнителей.",
+      "weight": 300,
+      "category": 12,
+      "rating": 864
+    },
+    {
+      "id": 1137,
+      "imageUrl": "/img/menu/napitki-kokteyl.jpg",
+      "name": "Молочный коктейль",
+      "price": 100,
+      "discr": "Молочный коктейль с каполнителем на выбор - ваниль, шоколад, клубника.",
+      "weight": 300,
+      "category": 12,
+      "rating": 863
+    },
+    {
+      "id": 1138,
+      "imageUrl": "/img/menu/napitki-rich.jpg",
+      "name": "Сок RICH",
+      "price": 175,
+      "discr": "Сок в ассортименте - яблочный, апельсиновый, персиковый, мультифрукт.",
+      "weight": 1000,
+      "category": 12,
+      "rating": 862
+    },
+    {
+      "id": 1139,
+      "imageUrl": "/img/menu/napitki-moya.jpg",
+      "name": "Сок Моя семья",
+      "price": 100,
+      "discr": "Сок в ассортименте - яблочный, апельсиновый, персиковый, мультифрукт.",
+      "weight": 1000,
+      "category": 12,
+      "rating": 861
+    },
+    {
+      "id": 1140,
+      "imageUrl": "/img/menu/napitki-mors.jpg",
+      "name": "Морс брусничный",
+      "price": 150,
+      "discr": "Морс брусничный с сахаром",
+      "weight": 1000,
+      "category": 12,
+      "rating": 860
+    },
+    {
+      "id": 1141,
+      "imageUrl": "/img/menu/napitki-kompot.jpg",
+      "name": "Компот",
+      "price": 120,
+      "discr": "Компот из сухофруктов",
+      "weight": 1000,
+      "category": 12,
+      "rating": 859
+    },
+    {
+      "id": 1142,
+      "imageUrl": "/img/menu/napitki-voda.jpg",
+      "name": "Вода негазированная",
+      "price": 10,
+      "discr": "Вода из кулера",
+      "weight": 300,
+      "category": 12,
+      "rating": 858
+    },
+    {
+      "id": 1143,
+      "imageUrl": "/img/menu/napitki-voda.jpg",
+      "name": "Вода негазированная",
+      "price": 30,
+      "discr": "Вода из кулера",
+      "weight": 1000,
+      "category": 12,
+      "rating": 857
+    },
+    {
+      "id": 1144,
+      "imageUrl": "/img/menu/napitki-gaz.jpg",
+      "name": "Вода газированная",
+      "price": 60,
+      "discr": "Бутилированная вода",
+      "weight": 500,
+      "category": 12,
+      "rating": 856
+    },
+    {
+      "id": 1145,
+      "imageUrl": "/img/menu/napitki-chay.jpg",
+      "name": "Чай",
+      "price": 15,
+      "discr": "Чай пакетированный",
+      "weight": 150,
+      "category": 12,
+      "rating": 855
+    },
+    {
+      "id": 1146,
+      "imageUrl": "/img/menu/napitki-chay.jpg",
+      "name": "Чай",
+      "price": 150,
+      "discr": "Чай пакетированный",
+      "weight": 1000,
+      "category": 12,
+      "rating": 854
+    },
+    {
+      "id": 1147,
+      "imageUrl": "/img/menu/napitki-cofe.jpg",
+      "name": "Кофе",
+      "price": 80,
+      "discr": "Зерновой кофе приготовленный в кофемашине",
+      "weight": 100,
+      "category": 12,
+      "rating": 853
+    },
+    {
+      "id": 1148,
+      "imageUrl": "/img/menu/napitki-cofe2.jpeg",
+      "name": "Кофе капучино",
+      "price": 120,
+      "discr": "Зерновой кофе приготовленный в кофемашине со взбитыми сливками и сахаром",
+      "weight": 150,
+      "category": 12,
+      "rating": 852
+    },
+    {
+      "id": 1149,
+      "imageUrl": "/img/menu/kokteyl-tropich.jpg",
+      "name": "Тропический",
+      "price": 150,
+      "discr": "Апельсиновый сок, молоко, банан, сахар, лёд",
+      "weight": 300,
+      "category": 13,
+      "rating": 851
+    },
+    {
+      "id": 1150,
+      "imageUrl": "/img/menu/kokteyl-snikers.jpg",
+      "name": "Сникерс",
+      "price": 150,
+      "discr": "Молоко, шоколадный топинг, карамельный сироп, лед, жаренный арахис.",
+      "weight": 300,
+      "category": 13,
+      "rating": 850
+    },
+    {
+      "id": 1151,
+      "imageUrl": "/img/menu/kokteyl-florida.jpg",
+      "name": "Флорида",
+      "price": 140,
+      "discr": "Апельсиновый , грейпфрутовый, лимонный соки, карамельный сироп, минеральная вода, лёд",
+      "weight": 300,
+      "category": 13,
+      "rating": 849
+    },
+    {
+      "id": 1152,
+      "imageUrl": "/img/menu/kokteyl-yabloko.jpg",
+      "name": "Яблочный",
+      "price": 150,
+      "discr": "Яблочный сок, минеральная вода, ванильный сироп, лёд",
+      "weight": 300,
+      "category": 13,
+      "rating": 848
+    },
+    {
+      "id": 1153,
+      "imageUrl": "/img/menu/kokteyl-grezy.jpg",
+      "name": "Грёзы",
+      "price": 180,
+      "discr": "Апельсиновый, виноградный соки, кокосовый сироп, лёд",
+      "weight": 300,
+      "category": 13,
+      "rating": 847
+    },
+    {
+      "id": 1154,
+      "imageUrl": "/img/menu/kokteyl-rycar.jpg",
+      "name": "Тёмный рыцарь",
+      "price": 200,
+      "discr": "Молоко, кофе, шоколадный топинг, мороженное, лёд",
+      "weight": 300,
+      "category": 13,
+      "rating": 846
     }
   ]
 }
