@@ -6,7 +6,6 @@ import { setCategory, setSortBy } from '../redux/actions/filters';
 import { fetchPizzas } from '../redux/actions/pizzas';
 
 const categoryNames = [
-  'Салаты',
   'Горячее',
   'На компанию',
   'Пицца',
