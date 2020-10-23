@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import Button from '../Button';
 
-function PizzaBlock({ id, name, imageUrl, price, discr, weight, types, sizes, onClickAddPizza, addedCount }) {
+function PizzaBlock({ id, name, imageUrl, price, discr, nodiscr, weight, types, sizes, onClickAddPizza, addedCount }) {
   const availableTypes = ['тонкое', 'традиционное'];
   const availableSizes = [26, 30, 40];
   const [activeType, setActiveType] = React.useState(types[0]);
@@ -39,7 +39,8 @@ function PizzaBlock({ id, name, imageUrl, price, discr, weight, types, sizes, on
       <h4 className="pizza-block__title">{name}</h4>
       <div className="pizza-block__selector">
         <ul>
-          {<p className="pizza-block__discr"><span>Состав:</span> {discr}</p>
+        {nodiscr && <p className="pizza-block__discr">{nodiscr}</p>}
+          {discr && <p className="pizza-block__discr"><span>Состав:</span> {discr}</p>
           /* {availableTypes.map((type, index) => (
             <li 
               key={type} 
@@ -52,7 +53,7 @@ function PizzaBlock({ id, name, imageUrl, price, discr, weight, types, sizes, on
             ))} */}
         </ul>
         <ul>
-          <p className="pizza-block__weight"><span>Вес: {weight} гр.</span></p>
+          {weight !== 0 ? <p className="pizza-block__weight"><span>Вес: {weight} гр.</span></p> : '🥰 🥰 🥰' }
         {/* {availableSizes.map((size, index) => (
             <li 
               key={index} 

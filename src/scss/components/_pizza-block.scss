@@ -40,6 +40,9 @@
   &__discr {
     text-align: left;
     min-height: 100px;
+    @media (max-width: 768px) {
+      min-height: auto;
+    }
   }
 
   &__weight {

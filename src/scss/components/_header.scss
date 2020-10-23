@@ -3,6 +3,9 @@
 .header {
   border-bottom: 1px solid $gray-line;
   padding: 40px 0;
+  @media (max-width: 768px) {
+    padding: 20px 0;
+  }
 
   .container {
     display: flex;
@@ -24,6 +27,10 @@
 
     img {
       margin-right: 15px;
+      @media (max-width: 768px) {
+        width: 90px;
+        height: 50px;
+      }
     }
 
     h1 {

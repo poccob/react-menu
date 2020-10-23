@@ -9,6 +9,7 @@ body {
   padding: 50px 0;
   @media (max-width: 768px) {
     padding: 20px 0;
+    background: #ffdf8c;
   }
 }
 
@@ -31,7 +32,8 @@ body {
   &__title {
     margin: 35px 0;
     @media (max-width: 768px) {
-      font-size: 36px;
+      font-size: 32px;
+      margin: 20px 0;
     }
   }
 
@@ -61,6 +63,7 @@ body {
     margin-bottom: 60px;
     @media (max-width: 768px) {
       flex-direction: column;
+      margin-bottom: 20px;
     }
   }
 }
