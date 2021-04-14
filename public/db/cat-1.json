@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1025,
+    "imageUrl": "/img/menu/goracee-tortuga.jpg",
+    "name": "ТОРТУГА - фирменное блюдо",
+    "price": 500,
+    "discr": "Язык в сливочно-грибном соусе, с зеленью.",
+    "weight": 250,
+    "category": 1,
+    "rating": 975
+  },
+  {
+    "id": 1026,
+    "imageUrl": "/img/menu/goracee-rybka.jpg",
+    "name": "Рыбка по-гречески",
+    "price": 280,
+    "discr": "Филе кеты, запеченное с морковью, помидором, луком и болгарским перцем, под майонезом.",
+    "weight": 150,
+    "category": 1,
+    "rating": 974
+  },
+  {
+    "id": 1027,
+    "imageUrl": "/img/menu/goracee-golandec.jpg",
+    "name": "Летучий голландец",
+    "price": 310,
+    "discr": "Филе кеты с чесночным соусом, запеченное под сыром и майонезом.",
+    "weight": 150,
+    "category": 1,
+    "rating": 973
+  },
+  {
+    "id": 1028,
+    "imageUrl": "/img/menu/goracee-pescar.jpg",
+    "name": "Три пескаря",
+    "price": 300,
+    "discr": "Горбуша в кляре",
+    "weight": 150,
+    "category": 1,
+    "rating": 972
+  },
+  {
+    "id": 1029,
+    "imageUrl": "/img/menu/goracee-marino.jpg",
+    "name": "Сан-Марино",
+    "price": 330,
+    "discr": "Филе кеты запеченное под маринованным луком, сыром и майонезом.",
+    "weight": 150,
+    "category": 1,
+    "rating": 971
+  },
+  {
+    "id": 1030,
+    "imageUrl": "/img/menu/goracee-ostrov.jpg",
+    "name": "Остров сокровищ",
+    "price": 295,
+    "discr": "Эскалоп из свинины, запеченный под луком, сыром и майонезом.",
+    "weight": 150,
+    "category": 1,
+    "rating": 970
+  },
+  {
+    "id": 1031,
+    "imageUrl": "/img/menu/goracee-silver.jpg",
+    "name": "Джон Сильвер",
+    "price": 295,
+    "discr": "Эскалоп из свинины, запеченный с грибами под луком, сыром и майонезом.",
+    "weight": 150,
+    "category": 1,
+    "rating": 969
+  },
+  {
+    "id": 1032,
+    "imageUrl": "/img/menu/goracee-bons.jpg",
+    "name": "Билли Бонс",
+    "price": 295,
+    "discr": "Эскалоп из свинины, запеченный с помидорами под луком, сыром и майонезом.",
+    "weight": 150,
+    "category": 1,
+    "rating": 968
+  },
+  {
+    "id": 1033,
+    "imageUrl": "/img/menu/goracee-bons.jpg",
+    "name": "Порт Роял",
+    "price": 300,
+    "discr": "Свинина с баклажанами, помидорами, луком  под соевым соусом и сыром.",
+    "weight": 150,
+    "category": 1,
+    "rating": 967
+  },
+  {
+    "id": 1034,
+    "imageUrl": "/img/menu/goracee-capitan.jpg",
+    "name": "Капитанский обед",
+    "price": 480,
+    "discr": "Замаринованные в соевом соусе кусочки свинины, обжаренные с луком. Подаётся с картофелем (отварной или жаренный по домашнему).",
+    "weight": 400,
+    "category": 1,
+    "rating": 966
+  },
+  {
+    "id": 1035,
+    "imageUrl": "/img/menu/goracee-golf.jpg",
+    "name": "Гольфстрим",
+    "price": 420,
+    "discr": "Говяжья отбивная, запеченная с копченостями,  грибами, луком, под сыром и майонезом.",
+    "weight": 160,
+    "category": 1,
+    "rating": 965
+  },
+  {
+    "id": 1036,
+    "imageUrl": "/img/menu/goracee-argo.jpg",
+    "name": "Арго",
+    "price": 420,
+    "discr": "Говяжья отбивная, запечённая с помидором, луком, чесноком и майонезом с зеленью.",
+    "weight": 150,
+    "category": 1,
+    "rating": 964
+  },
+  {
+    "id": 1037,
+    "imageUrl": "/img/menu/goracee-legenda.jpg",
+    "name": "Легенда Маракайбо",
+    "price": 420,
+    "discr": "Говяжья отбивная, запеченная с папоротником, украшенная зеленью.",
+    "weight": 150,
+    "category": 1,
+    "rating": 963
+  },
+  {
+    "id": 1038,
+    "imageUrl": "/img/menu/goracee-mechta.jpg",
+    "name": "Мечта матроса",
+    "price": 300,
+    "discr": "Куриное филе, обжаренное с кунжутом в соусе терияки.",
+    "weight": 250,
+    "category": 1,
+    "rating": 962
+  },
+  {
+    "id": 1039,
+    "imageUrl": "/img/menu/goracee-shepot.jpg",
+    "name": "Шёпот океана",
+    "price": 315,
+    "discr": "Куриная отбивная запеченная с грибами под сыром и луком.",
+    "weight": 250,
+    "category": 1,
+    "rating": 961
+  },
+  {
+    "id": 1040,
+    "imageUrl": "/img/menu/goracee-boy.jpg",
+    "name": "Перед боем",
+    "price": 315,
+    "discr": "Куриная отбивная, запеченная под помидором, сыром и луком.",
+    "weight": 250,
+    "category": 1,
+    "rating": 960
+  },
+  {
+    "id": 1041,
+    "imageUrl": "/img/menu/goracee-carica.jpg",
+    "name": "Царица морей",
+    "price": 360,
+    "discr": "Куриная отбивная с ананасом, курагой и грецким орехом.",
+    "weight": 250,
+    "category": 1,
+    "rating": 959
+  }
+]

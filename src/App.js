@@ -6,6 +6,7 @@ import { Home, Cart } from './pages';
 
 
 function App() {
+
   return (
     <div className="wrapper">
       <Header />
@@ -14,6 +15,7 @@ function App() {
         <Route path='/cart' component={ Cart } exact/>
       </div>
     </div>
+      
   );
 }
 

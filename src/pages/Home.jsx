@@ -18,28 +18,28 @@ const categoryNames = [
   'Соусы',
   'Десерты',
   'Напитки',
-  'Коктейли'
+  'Коктейли',
 ];
 const sortItems = [
-  {name: 'популярности', type: 'popular', order: 'desc'}, 
-  {name: 'цене ↑', type: 'price', order: 'asc'}, 
-  {name: 'цене ↓', type: 'price', order: 'desc'}, 
-  {name: 'алфавиту ↑', type: 'name', order: 'asc'},
-  {name: 'алфавиту ↓', type: 'name', order: 'desc'},
+  { name: 'популярности', type: 'popular', order: 'desc' },
+  { name: 'цене ↑', type: 'price', order: 'asc' },
+  { name: 'цене ↓', type: 'price', order: 'desc' },
+  //{ name: 'алфавиту ↑', type: 'name', order: 'asc' },
+  //{ name: 'алфавиту ↓', type: 'name', order: 'desc' },
 ];
 
 function Home() {
-  const items = useSelector( ({ pizzas }) => pizzas.items);
-  const cartItems = useSelector( ({ cart }) => cart.items);
-  const isLoaded = useSelector( ({ pizzas }) => pizzas.isLoaded);
-  const { category, sortBy } = useSelector( ({ filters }) => filters);
+  const items = useSelector(({ pizzas }) => pizzas.items);
+  const cartItems = useSelector(({ cart }) => cart.items);
+  const isLoaded = useSelector(({ pizzas }) => pizzas.isLoaded);
+  const { category, sortBy } = useSelector(({ filters }) => filters);
 
   const dispatch = useDispatch();
 
-  React.useEffect( () => {
+  React.useEffect(() => {
     dispatch(fetchPizzas(sortBy, category));
   }, [category, sortBy]);
-  
+
   const onSelectCategory = React.useCallback((index) => {
     dispatch(setCategory(index));
   }, []);
@@ -56,31 +56,38 @@ function Home() {
   };
 
   return (
-    <div className="container">
-      <h2 className="content__title">Меню</h2>
-      <div className="content__top">
-        <Categories 
-        activeCategory={category}
-        onClickCategory={onSelectCategory}
-        items={categoryNames} />
-        <SortPopup 
+    <div className='container'>
+      <h2 className='content__title'>Меню</h2>
+      <div className='content__top'>
+        <Categories
+          activeCategory={category}
+          onClickCategory={onSelectCategory}
+          items={categoryNames}
+        />
+        <div className='categories-plug'></div>
+        <SortPopup
           activeSortName={sortBy.name}
           items={sortItems}
           onClickSortType={onSelectSortType}
         />
       </div>
-      
-      <div className="content__items">
-        {
-          isLoaded 
-          ? items.map((obj) => <PizzaBlock onClickAddPizza={handleAddPizzaToCart} key={obj.id} addedCount={cartItems[obj.id] && cartItems[obj.id].items.length} {...obj} />) 
-          : Array(4).fill(0).map((_, index) => <PizzaLoadingBlock key={index} />)
-        }
-        
+
+      <div className='content__items'>
+        {isLoaded
+          ? items.map((obj) => (
+              <PizzaBlock
+                onClickAddPizza={handleAddPizzaToCart}
+                key={obj.id}
+                addedCount={cartItems[obj.id] && cartItems[obj.id].items.length}
+                {...obj}
+              />
+            ))
+          : Array(4)
+              .fill(0)
+              .map((_, index) => <PizzaLoadingBlock key={index} />)}
       </div>
     </div>
-      
-  )
+  );
 }
 
-export default Home
+export default Home;

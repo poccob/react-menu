@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1149,
+    "imageUrl": "/img/menu/kokteyl-tropich.jpg",
+    "name": "Тропический",
+    "price": 150,
+    "discr": "Апельсиновый сок, молоко, банан, сахар, лёд",
+    "weight": 300,
+    "category": 13,
+    "rating": 851
+  },
+  {
+    "id": 1150,
+    "imageUrl": "/img/menu/kokteyl-snikers.jpg",
+    "name": "Сникерс",
+    "price": 150,
+    "discr": "Молоко, шоколадный топинг, карамельный сироп, лед, жаренный арахис.",
+    "weight": 300,
+    "category": 13,
+    "rating": 850
+  },
+  {
+    "id": 1151,
+    "imageUrl": "/img/menu/kokteyl-florida.jpg",
+    "name": "Флорида",
+    "price": 140,
+    "discr": "Апельсиновый , грейпфрутовый, лимонный соки, карамельный сироп, минеральная вода, лёд",
+    "weight": 300,
+    "category": 13,
+    "rating": 849
+  },
+  {
+    "id": 1152,
+    "imageUrl": "/img/menu/kokteyl-yabloko.jpg",
+    "name": "Яблочный",
+    "price": 150,
+    "discr": "Яблочный сок, минеральная вода, ванильный сироп, лёд",
+    "weight": 300,
+    "category": 13,
+    "rating": 848
+  },
+  {
+    "id": 1153,
+    "imageUrl": "/img/menu/kokteyl-grezy.jpg",
+    "name": "Грёзы",
+    "price": 180,
+    "discr": "Апельсиновый, виноградный соки, кокосовый сироп, лёд",
+    "weight": 300,
+    "category": 13,
+    "rating": 847
+  },
+  {
+    "id": 1154,
+    "imageUrl": "/img/menu/kokteyl-rycar.jpg",
+    "name": "Тёмный рыцарь",
+    "price": 200,
+    "discr": "Молоко, кофе, шоколадный топинг, мороженное, лёд",
+    "weight": 300,
+    "category": 13,
+    "rating": 846
+  }
+]

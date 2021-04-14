@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1042,
+    "imageUrl": "/img/menu/goracee-vorobey.jpg",
+    "name": "Джек Воробей",
+    "price": 900,
+    "discr": "Курица с овощами, обжаренная в соевом соусе.",
+    "weight": 800,
+    "category": 2,
+    "rating": 958
+  },
+  {
+    "id": 1043,
+    "imageUrl": "/img/menu/goracee-terner.jpg",
+    "name": "Уилл Тернер",
+    "price": 900,
+    "discr": "Замаринованные кусочки курицы, обжаренные с овощами и ананасом в кисло-сладком соусе.",
+    "weight": 800,
+    "category": 2,
+    "rating": 957
+  },
+  {
+    "id": 1044,
+    "imageUrl": "/img/menu/goracee-terner.jpg",
+    "name": "Капитан Барбосса",
+    "price": 1000,
+    "discr": "Замаринованные кусочки курицы, обжаренные с баклажанами, луком, болгарским перцем под соусом.",
+    "weight": 800,
+    "category": 2,
+    "rating": 956
+  },
+  {
+    "id": 1045,
+    "imageUrl": "/img/menu/goracee-cruz.jpg",
+    "name": "Санта Круз",
+    "price": 1300,
+    "discr": "Свинина с овощами, обжаренная в соевом соусе.",
+    "weight": 800,
+    "category": 2,
+    "rating": 955
+  },
+  {
+    "id": 1046,
+    "imageUrl": "/img/menu/goracee-bagamy.jpg",
+    "name": "Багамы",
+    "price": 1300,
+    "discr": "Свинина в кисло-сладком соусе с овощами и ананасом.",
+    "weight": 800,
+    "category": 2,
+    "rating": 954
+  },
+  {
+    "id": 1047,
+    "imageUrl": "/img/menu/goracee-bagamy.jpg",
+    "name": "Барбаросса",
+    "price": 1300,
+    "discr": "Свинина, обжаренная  с баклажанами, луком, болгарским перцем под соусом.",
+    "weight": 800,
+    "category": 2,
+    "rating": 953
+  },
+  {
+    "id": 1048,
+    "imageUrl": "/img/menu/goracee-yamayka.jpg",
+    "name": "Ямайка",
+    "price": 900,
+    "discr": "Кусочки кеты с овощами, обжаренные в соевом соусе.",
+    "weight": 800,
+    "category": 2,
+    "rating": 952
+  },
+  {
+    "id": 1049,
+    "imageUrl": "/img/menu/goracee-sem.jpg",
+    "name": "Черный Сэм",
+    "price": 1600,
+    "discr": "Говядина с овощами, обжаренная в соевом соусе.",
+    "weight": 800,
+    "category": 2,
+    "rating": 951
+  },
+  {
+    "id": 1050,
+    "imageUrl": "/img/menu/goracee-komanda.jpg",
+    "name": "На всю команду",
+    "price": 2100,
+    "discr": "Говяжья вырезка, свиная вырезка, куриные крылышки, картофель по-домашнему",
+    "weight": 1500,
+    "category": 2,
+    "rating": 950
+  }
+]

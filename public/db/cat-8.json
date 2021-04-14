@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1102,
+    "imageUrl": "/img/menu/zulion.jpg",
+    "name": "Жульен с грибами",
+    "price": 130,
+    "discr": "Грибы, лук репчатый, сыр, сметана, майонез.",
+    "weight": 140,
+    "category": 8,
+    "rating": 898
+  },
+  {
+    "id": 1103,
+    "imageUrl": "/img/menu/zulion.jpg",
+    "name": "Жульен с курицей и грибами",
+    "price": 150,
+    "discr": "Курица отварная, грибы, лук репчатый, сыр, сметана, майонез.",
+    "weight": 140,
+    "category": 8,
+    "rating": 897
+  },
+  {
+    "id": 1104,
+    "imageUrl": "/img/menu/zulion.jpg",
+    "name": "Жульен с курицей",
+    "price": 150,
+    "discr": "Курица отварная, лук репчатый, сыр, сметана, майонез.",
+    "weight": 140,
+    "category": 8,
+    "rating": 896
+  },
+  {
+    "id": 1105,
+    "imageUrl": "/img/menu/zulion.jpg",
+    "name": "Жульен с курицей и папоротником",
+    "price": 150,
+    "discr": "Курица, папоротник, лук репчатый, сыр, майонез, сметана.",
+    "weight": 140,
+    "category": 8,
+    "rating": 895
+  },
+  {
+    "id": 1106,
+    "imageUrl": "/img/menu/zulion.jpg",
+    "name": "Жульен с кальмарами",
+    "price": 190,
+    "discr": "Кальмары, лук, соевый соус, сыр, сметана, майонез, зелень.",
+    "weight": 140,
+    "category": 8,
+    "rating": 894
+  },
+  {
+    "id": 1107,
+    "imageUrl": "/img/menu/zulion.jpg",
+    "name": "Жульен с креветкам",
+    "price": 250,
+    "discr": "Креветки, лук, соевый соус, сыр, сметана, майонез, маслины, зелень.",
+    "weight": 140,
+    "category": 8,
+    "rating": 893
+  }
+]

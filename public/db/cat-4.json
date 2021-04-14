@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1062,
+    "imageUrl": "/img/menu/uslugi-detsk.jpg",
+    "name": "Детская комната за час",
+    "price": 250,
+    "nodiscr": "Стоимость за час на КАЖДОГО ребенка в выходные и праздничные дни, по будням после 18 часов. Стоимость по будням до 18 часов - 100 руб. в час",
+    "weight": 0,
+    "category": 4,
+    "rating": 938
+  },
+  {
+    "id": 1063,
+    "imageUrl": "/img/menu/uslugi-detsk.jpg",
+    "name": "Детская комната безлимит",
+    "price": 550,
+    "nodiscr": "При нахождении в детской комнате более двух часов применяется тариф - безлимит 550 руб. в день. Не применяется в будние дни до 18 часов.",
+    "weight": 0,
+    "category": 4,
+    "rating": 937
+  },
+  {
+    "id": 1064,
+    "imageUrl": "/img/menu/detskoemenu-vokrug.jpg",
+    "name": "Вокруг света",
+    "price": 210,
+    "discr": "Кусочки куриного филе с добавлением сыра, замаринованные в соевом соусе, обжаренные в панировке.",
+    "weight": 140,
+    "category": 4,
+    "rating": 936
+  },
+  {
+    "id": 1065,
+    "imageUrl": "/img/menu/detskoemenu-rodjer.jpg",
+    "name": "Весёлый Роджер",
+    "price": 190,
+    "discr": "Нежные куриные оладушки",
+    "weight": 100,
+    "category": 4,
+    "rating": 935
+  },
+  {
+    "id": 1066,
+    "imageUrl": "/img/menu/detskoemenu-naggetsi.jpg",
+    "name": "Куриный поп-корн",
+    "price": 240,
+    "discr": "Куриное филе в панировке, обжаренное во фритюре",
+    "weight": 180,
+    "category": 4,
+    "rating": 934
+  },
+  {
+    "id": 1067,
+    "imageUrl": "/img/menu/detskoemenu-osminog.jpg",
+    "name": "Осьминожки",
+    "price": 150,
+    "discr": "Молочные сосиски",
+    "weight": 120,
+    "category": 4,
+    "rating": 933
+  },
+  {
+    "id": 1068,
+    "imageUrl": "/img/menu/detskoemenu-korsar.jpg",
+    "name": "Корсар",
+    "price": 140,
+    "discr": "Пикантная курочка.",
+    "weight": 100,
+    "category": 4,
+    "rating": 932
+  },
+  {
+    "id": 1069,
+    "imageUrl": "/img/menu/detskoemenu-ustav.jpg",
+    "name": "Морской устав",
+    "price": 225,
+    "discr": "Пикантная курочка.",
+    "weight": 140,
+    "category": 4,
+    "rating": 931
+  },
+  {
+    "id": 1070,
+    "imageUrl": "/img/menu/detskoemenu-krab.jpg",
+    "name": "Клешни краба",
+    "price": 200,
+    "discr": "Крабовые клешни в панировке.",
+    "weight": 200,
+    "category": 4,
+    "rating": 930
+  },
+  {
+    "id": 1071,
+    "imageUrl": "/img/menu/detskoemenu-piastry.jpg",
+    "name": "Пиастры",
+    "price": 200,
+    "discr": "Картофельные драники со сметаной.",
+    "weight": 240,
+    "category": 4,
+    "rating": 929
+  },
+  {
+    "id": 1072,
+    "imageUrl": "/img/menu/detskoemenu-ulybky.jpg",
+    "name": "Картофельные улыбки",
+    "price": 220,
+    "discr": "Картофельные драники в виде улыбок.",
+    "weight": 150,
+    "category": 4,
+    "rating": 928
+  },
+  {
+    "id": 1074,
+    "imageUrl": "/img/menu/detskoemenu-shariki.jpg",
+    "name": "Картофельные шарики",
+    "price": 150,
+    "discr": "Картофельное пюре в виде шариков.",
+    "weight": 150,
+    "category": 4,
+    "rating": 926
+  },
+  {
+    "id": 1075,
+    "imageUrl": "/img/menu/detskoemenu-free.jpg",
+    "name": "Картофель фри",
+    "price": 100,
+    "discr": "Картофель в виде брусочков.",
+    "weight": 150,
+    "category": 4,
+    "rating": 925
+  },
+  {
+    "id": 1076,
+    "imageUrl": "/img/menu/detskoemenu-pasta.jpg",
+    "name": "Спагетти под сыром",
+    "price": 80,
+    "discr": "Отваренные спагетти, приправленные сыром.",
+    "weight": 120,
+    "category": 4,
+    "rating": 924
+  },
+  {
+    "id": 1077,
+    "imageUrl": "/img/menu/detskoemenu-pure.jpg",
+    "name": "Картофельное пюре",
+    "price": 80,
+    "discr": "Нежное картофельное пюре со сливками.",
+    "weight": 200,
+    "category": 4,
+    "rating": 923
+  },
+  {
+    "id": 1078,
+    "imageUrl": "/img/menu/detskoemenu-bliny.jpg",
+    "name": "Блины без начинки",
+    "price": 80,
+    "discr": "Блинчики по рецепту моей французской бабушки.",
+    "weight": 140,
+    "category": 4,
+    "rating": 922
+  }
+]

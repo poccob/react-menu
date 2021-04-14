@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1091,
+    "imageUrl": "/img/menu/narezki-ovosh.jpg",
+    "name": "Овощная нарезка",
+    "price": 340,
+    "discr": "Помидор свежий, огурец свежий, перец болгарский.",
+    "weight": 300,
+    "category": 6,
+    "rating": 909
+  },
+  {
+    "id": 1092,
+    "imageUrl": "/img/menu/narezki-frukt.jpg",
+    "name": "Фруктовая нарезка",
+    "price": 360,
+    "discr": "Яблоко, киви, банан, апельсин, груша.",
+    "weight": 500,
+    "category": 6,
+    "rating": 908
+  },
+  {
+    "id": 1093,
+    "imageUrl": "/img/menu/narezki-syr.jpg",
+    "name": "Сырная нарезка",
+    "price": 350,
+    "discr": "3 вида сыра, мед, грецкий орех.",
+    "weight": 200,
+    "category": 6,
+    "rating": 907
+  },
+  {
+    "id": 1094,
+    "imageUrl": "/img/menu/narezki-myaso.jpg",
+    "name": "Мясная нарезка",
+    "price": 420,
+    "discr": "3 вида деликатесного мяса, зелень.",
+    "weight": 200,
+    "category": 6,
+    "rating": 906
+  },
+  {
+    "id": 1095,
+    "imageUrl": "/img/menu/narezki-ryba.jpg",
+    "name": "Рыбная нарезка",
+    "price": 490,
+    "discr": "Кета полукопченая, горбуша полукопченая, скумбрия  полукопченая, лук маринованный, маслины.",
+    "weight": 200,
+    "category": 6,
+    "rating": 905
+  },
+  {
+    "id": 1096,
+    "imageUrl": "/img/menu/narezki-yazik.jpg",
+    "name": "Язык отварной с хреном",
+    "price": 450,
+    "discr": "Язык отварной с зеленью и соусом в виде хрена.",
+    "weight": 200,
+    "category": 6,
+    "rating": 904
+  }
+]

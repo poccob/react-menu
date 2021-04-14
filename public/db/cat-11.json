@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1125,
+    "imageUrl": "/img/menu/deserti-moroz.jpg",
+    "name": "Мороженое",
+    "price": 120,
+    "discr": "Мороженое в ассортименте - ванильное, шоколадное, клубничное",
+    "weight": 150,
+    "category": 11,
+    "rating": 875
+  },
+  {
+    "id": 1126,
+    "imageUrl": "/img/menu/deserti-moroz.jpg",
+    "name": "Мороженое 1/2 порции",
+    "price": 70,
+    "discr": "Мороженое в ассортименте - ванильное, шоколадное, клубничное",
+    "weight": 75,
+    "category": 11,
+    "rating": 874
+  },
+  {
+    "id": 1127,
+    "imageUrl": "/img/menu/deserti-skazka.jpg",
+    "name": "Сказочное удовольствие",
+    "price": 150,
+    "discr": "Мороженое, топинг, конфеты, сладкая палочка.",
+    "weight": 175,
+    "category": 11,
+    "rating": 873
+  },
+  {
+    "id": 1128,
+    "imageUrl": "/img/menu/deserti-frukt.jpg",
+    "name": "Фруктовое удовольствие",
+    "price": 220,
+    "discr": "Яблоко, груша, апельсин, киви, банан, сливочный йогурт. Наполнители - по желанию.",
+    "weight": 220,
+    "category": 11,
+    "rating": 872
+  },
+  {
+    "id": 1129,
+    "imageUrl": "/img/menu/deserti-chiz.jpg",
+    "name": "Чизкейк",
+    "price": 150,
+    "discr": "В ассортименте - шоколадный, клубничный, ванильный.",
+    "weight": 125,
+    "category": 11,
+    "rating": 871
+  },
+  {
+    "id": 1130,
+    "imageUrl": "/img/menu/deserti-vafli.jpg",
+    "name": "Вафли",
+    "price": 190,
+    "discr": "Вафли с наполнителем на выбор - крем сливочный, мороженое, фрукты, топинг.",
+    "weight": 140,
+    "category": 11,
+    "rating": 870
+  },
+  {
+    "id": 1131,
+    "imageUrl": "/img/menu/deserti-shokolad.jpg",
+    "name": "Шоколад",
+    "price": 40,
+    "discr": "Вафли с наполнителем на выбор - крем сливочный, мороженое, фрукты, топинг.",
+    "weight": 10,
+    "category": 11,
+    "rating": 869
+  },
+  {
+    "id": 1132,
+    "imageUrl": "/img/menu/deserti-dzem.jpg",
+    "name": "Джем",
+    "price": 40,
+    "discr": "Джем в ассортименте.",
+    "weight": 20,
+    "category": 11,
+    "rating": 868
+  },
+  {
+    "id": 1133,
+    "imageUrl": "/img/menu/deserti-moloko.jpg",
+    "name": "Молоко сгущенное",
+    "price": 50,
+    "discr": "Молоко сгущенное с сахаром.",
+    "weight": 20,
+    "category": 11,
+    "rating": 867
+  },
+  {
+    "id": 1134,
+    "imageUrl": "/img/menu/deserti-oreh.jpg",
+    "name": "Орех грецкий",
+    "price": 50,
+    "discr": "Очищенный грецкий орех",
+    "weight": 10,
+    "category": 11,
+    "rating": 866
+  },
+  {
+    "id": 1135,
+    "imageUrl": "/img/menu/deserti-med.jpg",
+    "name": "Мед",
+    "price": 50,
+    "discr": "Мед местных производителей из разнотравья.",
+    "weight": 20,
+    "category": 11,
+    "rating": 865
+  }
+]

@@ -3,7 +3,12 @@
 .pizza-block {
   width: 100%;
   text-align: center;
-  margin-bottom: 65px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 30px;
+  margin-bottom: 35px;
+  border: 2px solid rgba(0, 0, 0, 0.05);
+  border-radius: 10px;
 
   @media (max-width: 1090px) {
     margin-bottom: 35px;
@@ -13,7 +18,7 @@
     &:not(:last-of-type) {
       border-bottom: 1px solid #efefef;
       margin-bottom: 25px;
-      padding-bottom: 45px;
+      padding-bottom: 25px;
     }
   }
 
@@ -29,18 +34,22 @@
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
+    @media (max-width: 768px) {
+      width: 250px;
+    }
   }
 
   &__title {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 900;
     letter-spacing: 1%;
     margin-bottom: 20px;
   }
   &__discr {
     text-align: left;
-    min-height: 100px;
-    @media (max-width: 768px) {
+    min-height: 90px;
+    font-size: 14px;
+    @media (max-width: 767px) {
       min-height: auto;
     }
   }
@@ -101,5 +110,8 @@
     font-size: 22px;
     line-height: 27px;
     letter-spacing: 0.015em;
+    @media (max-width: 767px) {
+      font-size: 18px;
+    }
   }
 }

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1115,
+    "imageUrl": "/img/menu/sous-syr-chesn.jpg",
+    "name": "Сырно-чесночный",
+    "price": 50,
+    "discr": "Плавленый сыр, чеснок, майонез.",
+    "weight": 40,
+    "category": 10,
+    "rating": 885
+  },
+  {
+    "id": 1116,
+    "imageUrl": "/img/menu/sous-mexiko.jpg",
+    "name": "Мексиканский",
+    "price": 50,
+    "discr": "Перец, помидор, лук, сметана, кетчуп.",
+    "weight": 40,
+    "category": 10,
+    "rating": 884
+  },
+  {
+    "id": 1117,
+    "imageUrl": "/img/menu/sous-italyan.jpg",
+    "name": "Итальянский",
+    "price": 50,
+    "discr": "Болгарский перец, горчица, майонез.",
+    "weight": 40,
+    "category": 10,
+    "rating": 883
+  },
+  {
+    "id": 1118,
+    "imageUrl": "/img/menu/sous-hren.jpg",
+    "name": "Деликатесный",
+    "price": 50,
+    "discr": "Хрен, сметана, грецкий орех.",
+    "weight": 40,
+    "category": 10,
+    "rating": 882
+  },
+  {
+    "id": 1119,
+    "imageUrl": "/img/menu/sous-karri.png",
+    "name": "Карри",
+    "price": 50,
+    "discr": "Ананас, французская горчица, майонез, карри, кетчуп, сок лимона.",
+    "weight": 40,
+    "category": 10,
+    "rating": 881
+  },
+  {
+    "id": 1120,
+    "imageUrl": "/img/menu/sous-meri.jpg",
+    "name": "Мерри",
+    "price": 50,
+    "discr": "Кетчуп, чеснок, зелень.",
+    "weight": 40,
+    "category": 10,
+    "rating": 880
+  },
+  {
+    "id": 1121,
+    "imageUrl": "/img/menu/sous-tatar.jpg",
+    "name": "Татарский",
+    "price": 50,
+    "discr": "Огурец маринованный, грибы, лук, майонез, сметана.",
+    "weight": 40,
+    "category": 10,
+    "rating": 879
+  },
+  {
+    "id": 1122,
+    "imageUrl": "/img/menu/sous-gorch.jpg",
+    "name": "Пикантный",
+    "price": 50,
+    "discr": "Сыр, горчица, чеснок, майонез, зелень.",
+    "weight": 40,
+    "category": 10,
+    "rating": 878
+  },
+  {
+    "id": 1123,
+    "imageUrl": "/img/menu/sous-teriaki.jpg",
+    "name": "Терияки",
+    "price": 50,
+    "discr": "Соевый соус, чеснок, зелень, специи.",
+    "weight": 40,
+    "category": 10,
+    "rating": 877
+  },
+  {
+    "id": 1124,
+    "imageUrl": "/img/menu/sous-tai.jpg",
+    "name": "Чили тайский",
+    "price": 50,
+    "discr": "Перец чили, чеснок, имбирь, специи.",
+    "weight": 40,
+    "category": 10,
+    "rating": 876
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1079,
+    "imageUrl": "/img/menu/zakuski-ezh.jpg",
+    "name": "Морской Ёжик",
+    "price": 230,
+    "discr": "Рулет из куриного филе, с нежной сливочно-сырной начинкой, в панировке.",
+    "weight": 150,
+    "category": 5,
+    "rating": 921
+  },
+  {
+    "id": 1080,
+    "imageUrl": "/img/menu/zakuski-sereny.jpg",
+    "name": "Поющие сирены",
+    "price": 230,
+    "discr": "Рулет из куриного филе, с нежной сливочно-сырной начинкой, в панировке.",
+    "weight": 150,
+    "category": 5,
+    "rating": 920
+  },
+  {
+    "id": 1081,
+    "imageUrl": "/img/menu/zakuski-korsar.jpg",
+    "name": "Пристань корсаров",
+    "price": 250,
+    "discr": "Рулет из свиной отбивной в сухарях, с начинкой из грибов, лука, сыра и сливочного масла.",
+    "weight": 150,
+    "category": 5,
+    "rating": 919
+  },
+  {
+    "id": 1082,
+    "imageUrl": "/img/menu/zakuski-val.jpg",
+    "name": "Девятый вал",
+    "price": 200,
+    "discr": "Крылья в панировке.",
+    "weight": 200,
+    "category": 5,
+    "rating": 918
+  },
+  {
+    "id": 1083,
+    "imageUrl": "/img/menu/zakuski-gorizont.jpg",
+    "name": "Морские горизонты",
+    "price": 250,
+    "discr": "Кальмары в панировке.",
+    "weight": 200,
+    "category": 5,
+    "rating": 917
+  },
+  {
+    "id": 1084,
+    "imageUrl": "/img/menu/zakuski-taynik.jpg",
+    "name": "Тайник пирата",
+    "price": 300,
+    "discr": "Запечённые сырные шарики (палочки) в панировке, подаются с сырно-чесночным соусом.",
+    "weight": 200,
+    "category": 5,
+    "rating": 916
+  },
+  {
+    "id": 1085,
+    "imageUrl": "/img/menu/zakuski-briz.jpg",
+    "name": "Морской бриз",
+    "price": 380,
+    "discr": "Креветки, отваренные со специями. Подаются с соусом терияки.",
+    "weight": 240,
+    "category": 5,
+    "rating": 915
+  },
+  {
+    "id": 1086,
+    "imageUrl": "/img/menu/zakuski-kon.jpg",
+    "name": "Кон-Тики",
+    "price": 350,
+    "discr": "Сыр, лук, крабовые палочки в панировке. Подаются с сухариками и сырно-чесночным соусом.",
+    "weight": 460,
+    "category": 5,
+    "rating": 914
+  },
+  {
+    "id": 1087,
+    "imageUrl": "/img/menu/zakuski-magelan.jpg",
+    "name": "Магеллан",
+    "price": 550,
+    "discr": "Сагудай из кеты, с маринованным луком, имбирем, лимоном и зеленью.",
+    "weight": 350,
+    "category": 5,
+    "rating": 913
+  },
+  {
+    "id": 1088,
+    "imageUrl": "/img/menu/zakuski-pomidory.jpg",
+    "name": "Борнео",
+    "price": 180,
+    "discr": "Помидоры, фаршированные сыром с чесноком.",
+    "weight": 210,
+    "category": 5,
+    "rating": 912
+  },
+  {
+    "id": 1089,
+    "imageUrl": "/img/menu/zakuski-chertyata.jpg",
+    "name": "Чертята",
+    "price": 390,
+    "discr": "Рулетики из баклажанов с сыром, чесноком, свежим огурцом, карбонадом полукопченым.",
+    "weight": 400,
+    "category": 5,
+    "rating": 911
+  },
+  {
+    "id": 1090,
+    "imageUrl": "/img/menu/zakuski-shuka.jpg",
+    "name": "Щука фаршированная за кг.",
+    "price": 1200,
+    "discr": "Фаршированная рыба запеченная в духовке.",
+    "weight": 1000,
+    "category": 5,
+    "rating": 910
+  }
+]

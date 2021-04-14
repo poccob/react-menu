@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1136,
+    "imageUrl": "/img/menu/napitki-kokt.jpg",
+    "name": "Молочный коктейль",
+    "price": 80,
+    "discr": "Молочный коктейль без наполнителей.",
+    "weight": 300,
+    "category": 12,
+    "rating": 864
+  },
+  {
+    "id": 1137,
+    "imageUrl": "/img/menu/napitki-kokteyl.jpg",
+    "name": "Молочный коктейль",
+    "price": 100,
+    "discr": "Молочный коктейль с каполнителем на выбор - ваниль, шоколад, клубника.",
+    "weight": 300,
+    "category": 12,
+    "rating": 863
+  },
+  {
+    "id": 1138,
+    "imageUrl": "/img/menu/napitki-rich.jpg",
+    "name": "Сок RICH",
+    "price": 175,
+    "discr": "Сок в ассортименте - яблочный, апельсиновый, персиковый, мультифрукт.",
+    "weight": 1000,
+    "category": 12,
+    "rating": 862
+  },
+  {
+    "id": 1139,
+    "imageUrl": "/img/menu/napitki-moya.jpg",
+    "name": "Сок Моя семья",
+    "price": 100,
+    "discr": "Сок в ассортименте - яблочный, апельсиновый, персиковый, мультифрукт.",
+    "weight": 1000,
+    "category": 12,
+    "rating": 861
+  },
+  {
+    "id": 1140,
+    "imageUrl": "/img/menu/napitki-mors.jpg",
+    "name": "Морс брусничный",
+    "price": 150,
+    "discr": "Морс брусничный с сахаром",
+    "weight": 1000,
+    "category": 12,
+    "rating": 860
+  },
+  {
+    "id": 1141,
+    "imageUrl": "/img/menu/napitki-kompot.jpg",
+    "name": "Компот",
+    "price": 120,
+    "discr": "Компот из сухофруктов",
+    "weight": 1000,
+    "category": 12,
+    "rating": 859
+  },
+  {
+    "id": 1142,
+    "imageUrl": "/img/menu/napitki-voda.jpg",
+    "name": "Вода негазированная",
+    "price": 10,
+    "discr": "Вода из кулера",
+    "weight": 300,
+    "category": 12,
+    "rating": 858
+  },
+  {
+    "id": 1143,
+    "imageUrl": "/img/menu/napitki-voda.jpg",
+    "name": "Вода негазированная",
+    "price": 30,
+    "discr": "Вода из кулера",
+    "weight": 1000,
+    "category": 12,
+    "rating": 857
+  },
+  {
+    "id": 1144,
+    "imageUrl": "/img/menu/napitki-gaz.jpg",
+    "name": "Вода газированная",
+    "price": 60,
+    "discr": "Бутилированная вода",
+    "weight": 500,
+    "category": 12,
+    "rating": 856
+  },
+  {
+    "id": 1145,
+    "imageUrl": "/img/menu/napitki-chay.jpg",
+    "name": "Чай",
+    "price": 15,
+    "discr": "Чай пакетированный",
+    "weight": 150,
+    "category": 12,
+    "rating": 855
+  },
+  {
+    "id": 1146,
+    "imageUrl": "/img/menu/napitki-chay.jpg",
+    "name": "Чай",
+    "price": 150,
+    "discr": "Чай пакетированный",
+    "weight": 1000,
+    "category": 12,
+    "rating": 854
+  },
+  {
+    "id": 1147,
+    "imageUrl": "/img/menu/napitki-cofe.jpg",
+    "name": "Кофе",
+    "price": 80,
+    "discr": "Зерновой кофе приготовленный в кофемашине",
+    "weight": 100,
+    "category": 12,
+    "rating": 853
+  },
+  {
+    "id": 1148,
+    "imageUrl": "/img/menu/napitki-cofe2.jpeg",
+    "name": "Кофе капучино",
+    "price": 120,
+    "discr": "Зерновой кофе приготовленный в кофемашине со взбитыми сливками и сахаром",
+    "weight": 150,
+    "category": 12,
+    "rating": 852
+  }
+]

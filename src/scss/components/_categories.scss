@@ -6,9 +6,15 @@
   overflow: auto;
   //margin-bottom: 60px;
 
+  &-plug {
+    display: none;
+  }
+
   ul {
     @media (max-width: 767px) {
       display: flex;
+      padding-top: 10px;
+      padding-bottom: 10px;
     }
 
     li {
