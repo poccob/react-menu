@@ -179,7 +179,7 @@ function Cart() {
                 <span>Вернуться назад</span>
               </Link>
               <Button onClick={onClickOrder} className='pay-btn' outline>
-                <span>СДЕЛАТЬ ЗАКАЗ</span>
+                <span>ОТПРАВИТЬ ЗАЯВКУ</span>
               </Button>
             </div>
           </div>

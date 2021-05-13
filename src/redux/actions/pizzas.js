@@ -12,7 +12,7 @@ export const fetchPizzas = (sortBy, category) => (dispatch) => {
   });
 
   axios.get(`/db/cat-${category !== null ? `${category + 1}` : '0'}.json`).then(({ data }) => {
-    console.log(sortBy);
+    //console.log(sortBy);
     if (sortBy.type === 'popular') {
       data.sort(function (obj1, obj2) {
         return obj2.rating - obj1.rating;
